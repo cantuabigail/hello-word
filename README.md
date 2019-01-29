@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Primer repositorio
 
 tengo hambre:c
